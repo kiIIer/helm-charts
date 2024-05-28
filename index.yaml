@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  devops-hello-world:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-05-28T09:46:56.04308+02:00"
+    description: A Helm chart for a simple Go server using Viper for configuration
+    digest: e945db21b02b3ca70695840dfc74d42aa22918d3d2c0c716116ccb057b996700
+    name: devops-hello-world
+    type: application
+    urls:
+    - https://github.com/kiIIer/helm-charts/devops-hello-world-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-05-28T09:46:56.042528+02:00"
